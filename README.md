@@ -24,3 +24,5 @@ WHEN I view the title element
 The following image shows the web application's appearance and functionality:
 
 ![image](Assets/images/01-html-css-git-homework-demo.png)
+
+Deployed link: https://nimo20.github.io/Marketing/
